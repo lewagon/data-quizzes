@@ -1,2 +1,1 @@
-# data-quizzes
-Quizzes Notebooks used by Kitt for the Data Science bootcamp. 
+This repository is used by Kitt to serve the quizzes through `curl`
